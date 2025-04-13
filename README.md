@@ -1,6 +1,6 @@
 # ZooAPI
 
-Projeto de gerenciamento de animais e cuidados, desenvolvido com **.NET** no backend e **React** no frontend.
+Projeto de gerenciamento de animais e cuidados, desenvolvido com **.NET** no backend e **React** no frontend na IDE Visual studio code.
 
 ---
 
