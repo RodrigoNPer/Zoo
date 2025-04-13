@@ -22,6 +22,7 @@ Certifique-se de ter as seguintes ferramentas instaladas no seu ambiente:
 ### **Passos para Rodar o Backend**
 
 1. **Clone o Repositório**:
+
    ```bash
    git clone https://github.com/RodrigoNPer/Zoo.git
    cd ZooAPI
@@ -41,7 +42,7 @@ Execute o comando para criar as tabelas no banco de dados: dotnet ef database up
 Execute o comando para iniciar o backend: dotnet run
 O backend estará disponível em http://localhost:5050.
 
-Frontend:
+### **Passos para Rodar o Frontend**
 
 Passos para Rodar o Frontend
 Navegue até a Pasta do zoo-frontend: cd zoo-frontend
