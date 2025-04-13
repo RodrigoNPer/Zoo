@@ -44,14 +44,13 @@ O backend estará disponível em http://localhost:5050.
 
 ### **Passos para Rodar o Frontend**
 
-Passos para Rodar o Frontend
-Navegue até a Pasta do zoo-frontend: cd zoo-frontend
+1. Navegue até a Pasta do zoo-frontend: cd zoo-frontend
 
-Instale as Dependências
-Execute o comando para instalar as dependências do projeto: npm install
+2. Instale as Dependências
+   Execute o comando para instalar as dependências do projeto: npm install
 
-Inicie o Servidor de Desenvolvimento
-Execute o comando para iniciar o frontend:npm start
+3. Inicie o Servidor de Desenvolvimento
+   Execute o comando para iniciar o frontend: npm start
 
 O frontend estará disponível em http://localhost:3000.
 Funcionalidades Implementadas
